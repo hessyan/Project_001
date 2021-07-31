@@ -5,7 +5,7 @@
   "main": "demo_01.js",
   "scripts": {
     "start": "node ./demo_01.js",
-    "test": "node ./demo_01.js"
+    "test": "node ./demo_01_test.js"
   },
   "repository": {
     "type": "git",
