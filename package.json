@@ -1,0 +1,21 @@
+{
+  "name": "Project_001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_01.js",
+  "scripts": {
+    "start": "node ./demo_01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hessyan/Project_001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hessyan/Project_001/issues"
+  },
+  "homepage": "https://github.com/hessyan/Project_001#readme"
+}
