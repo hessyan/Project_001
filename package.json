@@ -1,7 +1,6 @@
 {
   "name": "project_001",
   "version": "1.0.0",
-  "description": "",
   "main": "demo_01.js",
   "scripts": {
     "start": "node ./demo_01.js",
@@ -17,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/hessyan/Project_001/issues"
   },
-  "homepage": "https://github.com/hessyan/Project_001#readme"
+  "homepage": "https://github.com/hessyan/Project_001#readme",
+  "description": ""
 }
