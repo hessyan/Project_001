@@ -2,6 +2,8 @@
 var http = require('http');
 var url = require('url');
 var util = require('util');
+var async = require('async');
+
 const { runInNewContext } = require('vm');
 const listeningPort = 8080;
 var server = http.createServer(function (req, res) {
